@@ -7,7 +7,7 @@ both webservers and operating systems, making it perfect for full stack JavaScri
 Electron leverages Node.js while being able to render and communicate with React interfaces as well,
 so it can be used for creating PWAs without having to actually rebuild the application using services
 like cocoa pods for iOS. Electron can also communicate with any OS by running batch files through
-the framework so that you don't need to build a backend application for running batches to create
+the framework so that you don't need to build a backend application for running batches and creating
 automation features. As such, this makes this kind of microservice perfect for integrating into any
 system. If you leverage this with services like AWS as shown in this example, you can create robust
 and scalable systems that have less messy tech stacks and code bases, while still securing and
