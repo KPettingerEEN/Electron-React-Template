@@ -1,7 +1,7 @@
 # Main Details
 
-This is an application template for making a basic Electron/React PWA. Simply install the following
-dependencies and then run "npm run build" then "npm start" to see the basic layout that you can start
+This is an application template for making a basic Electron/React Mobile App. Simply install the
+dependencies, then run "npm run build" and "npm start" to see the basic layout that you can start
 editing. This can be used for creating complex microservices that are capable of communicating with
 both webservers and operating systems, making it perfect for full stack JavaScript development.
 Electron leverages Node.js while being able to render and communicate with React interfaces as well,
@@ -18,17 +18,28 @@ managing data better than you would with traditional systems.
 * Node
 * Electron
 * React
-* SQLite
 * AWS
 
 # Must have the following installed:
 
 * Node.js
-* React, React CLI, and React Icons
-* AWS-SDK
+* React
+* React Dom
+* React CLI
+* React Icons
 * Electron
-* SQLite
+* AWS-SDK
 
 # Run the following command as well for babel:
 
 * npm install --save-dev @babel/core @babel/preset-react @babel/preset-env babel-loader
+
+# Create a .babelrc file and add the following:
+
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
+
+# React Icons Public GitHub Site:
+
+* https://react-icons.github.io/react-icons/

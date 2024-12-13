@@ -13,7 +13,6 @@ function createWindow() {
   });
 
   mainWindow.loadFile(path.join(__dirname, '../../public/index.html'));
-  mainWindow.setMenu(null);
 }
 
 app.whenReady().then(createWindow);
