@@ -34,6 +34,11 @@ managing data better than you would with traditional systems.
 
 * npm install --save-dev @babel/core @babel/preset-react @babel/preset-env babel-loader
 
+# Running App
+
+* npm run build
+* npm start
+
 # React Icons Public GitHub Site:
 
 * https://react-icons.github.io/react-icons/
