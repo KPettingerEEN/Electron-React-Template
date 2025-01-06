@@ -1,6 +1,6 @@
 # Main Details
 
-This is an application template for making a basic Electron/React Mobile App. Simply install the
+This is an application template for making a basic Electron/React desktop App. Simply install the
 dependencies, then run "npm run build" and "npm start" to see the basic layout that you can start
 editing. This can be used for creating complex microservices that are capable of communicating with
 both webservers and operating systems, making it perfect for full stack JavaScript development.
